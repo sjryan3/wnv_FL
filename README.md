@@ -11,4 +11,4 @@ Supplemental Data files for the manuscript are also housed in the repo: S1.csv c
 
 
 Below is Figure 1 in the manuscript: the number of months of WNV transmission suitability at climate baseline, by county, in FL. 
-<img width="1818" height="1181" alt="wcurZplot" src="https://github.com/user-attachments/assets/edd6485a-b4f4-4da5-bdca-01aae48a9c66" />
+<img width="1718" height="1081" alt="wcurZplot" src="https://github.com/user-attachments/assets/edd6485a-b4f4-4da5-bdca-01aae48a9c66" />
