@@ -10,5 +10,5 @@ The file representing baseline months of suitability for transmission is named "
 Supplemental Data files for the manuscript are also housed in the repo: S1.csv containing the number of months of suitability at the county level at baseline climate; S2. csv containing the number of months of suitability at the county level for every combination of Year, GCM and SSP. 
 
 
-Below is Figure 1 in the manuscript: the number of months of WNV transmission suitability at climate basline, by county, in FL. 
+Below is Figure 1 in the manuscript: the number of months of WNV transmission suitability at climate baseline, by county, in FL. 
 <img width="1918" height="1281" alt="wcurZplot" src="https://github.com/user-attachments/assets/edd6485a-b4f4-4da5-bdca-01aae48a9c66" />
